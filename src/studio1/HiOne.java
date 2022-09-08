@@ -17,6 +17,9 @@ public class HiOne {
 		//      Hi, Pat.  How are you?
 		// if the value of name is "Pat"
 		//
+		System.out.print("Hi ");
+		System.out.print(name);
+		System.out.print(". How are you?");
 
 	}
 
